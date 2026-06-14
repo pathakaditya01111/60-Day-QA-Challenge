@@ -15,16 +15,27 @@ I am learning Software Quality Assurance (QA) through a 60-day challenge.
 - Exploratory Testing
 
   ## Week 2 Topics
+  
   Test Case Writing — Structure & Format
+  
   Test Cases — SauceDemo Login Module
+  
   Test Cases — SauceDemo Product & Cart
+  
   Test Cases — SauceDemo Checkout E2E Flow
+  
   Test Cases — OrangeHRM Login
+  
   Test Cases — OrangeHRM Employee CRUD
+  
   Test Plan & Test Strategy Documents
+  
   Professional Bug Reporting (Jira-style)
+  
   Requirements Traceability Matrix (RTM)
+  
   BVA + Equivalence Partitioning in Practice
+  
 
 ## Repository Structure
 
