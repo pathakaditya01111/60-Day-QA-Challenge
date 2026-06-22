@@ -26,6 +26,14 @@ I am learning Software Quality Assurance (QA) through a 60-day challenge.
 -   Professional Bug Reporting (Jira-style)
 -   Requirements Traceability Matrix (RTM)
 -   BVA + Equivalence Partitioning in Practice
+
+  ## Week 3 Topics
+
+- QA Process Documentation
+- Smoke & Sanity Testing in Practice
+- Regression Testing Strategy & Suite
+- UAT Planning & Sign-off Documentation
+- Post-Release & Production Verification Testing
   
 
 ## Repository Structure
@@ -37,7 +45,8 @@ I am learning Software Quality Assurance (QA) through a 60-day challenge.
 
 ## Tools Used
 
-- SauceDemo
+- Swag Labs
 - OrangeHRM
 - GitHub
 - Excel
+- Docs
