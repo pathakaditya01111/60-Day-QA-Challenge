@@ -6,6 +6,8 @@ I am learning Software Quality Assurance (QA) through a 60-day challenge.
 
 ## Week 1 Topics
 
+QA Foundations
+
 - SDLC and STLC
 - Testing Types
 - ISTQB Principles
@@ -15,6 +17,8 @@ I am learning Software Quality Assurance (QA) through a 60-day challenge.
 - Exploratory Testing
 
   ## Week 2 Topics
+
+  Manual Testing Mastery
   
 -   Test Case Writing — Structure & Format 
 -   Test Cases — SauceDemo Login Module
@@ -28,6 +32,8 @@ I am learning Software Quality Assurance (QA) through a 60-day challenge.
 -   BVA + Equivalence Partitioning in Practice
 
   ## Week 3 Topics
+
+  QA Process & Release Testing
 
 - QA Process Documentation
 - Smoke & Sanity Testing in Practice
