@@ -1,1 +1,65 @@
+var name = "Aditya";
+let age = 22;
+const country = "Nepal";
 
+console.log(name);
+console.log(age);
+console.log(country);
+
+
+function login(username) {
+        return "Welcome " + username; 
+    }
+ console.log(login("Admin"));
+
+
+
+ const logins = (username) => { 
+    return `Welcome ${username}`; 
+}; 
+console.log(logins("Admin"));
+
+
+
+let userss = "Admin";
+console.log(`Hello ${userss}`);
+
+
+
+const userz = ["Admin", "John", "David"];
+ console.log(userz);
+
+
+const numbers = [1,2,3,4];
+const result = numbers.map(num => num * 2);
+console.log(result);
+
+
+const ages = [12,18,22,30];
+const adults = ages.filter(age => age >= 18);
+console.log(adults);
+
+
+const users = ["Admin","John","David"];
+const user = users.find(u => u === "John");
+console.log(user);
+
+
+const promise = new Promise((resolve) => {
+     resolve("Login Successful"); 
+    });
+promise.then(result => {
+     console.log(result);
+     });
+
+
+async function loginAsync() {
+    return "Login Successful";
+}
+
+async function test() {
+    const result = await loginAsync();
+    console.log(result);
+}
+
+test();
