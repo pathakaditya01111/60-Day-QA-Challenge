@@ -1,12 +1,27 @@
 const { defineConfig } = require("cypress");
 
 module.exports = defineConfig({
-  projectId: '1b3op4',
-  allowCypressEnv: false,
+
+  reporter: "cypress-mochawesome-reporter",
+
+  screenshotOnRunFailure: true,
+
+  video: true,
+
+  screenshotsFolder: "cypress/screenshots",
+
+  videosFolder: "cypress/videos",
 
   e2e: {
+
     setupNodeEvents(on, config) {
-      // implement node event listeners here
-    },
-  },
+
+      require("cypress-mochawesome-reporter/plugin")(on);
+
+      return config;
+
+    }
+
+  }
+
 });
