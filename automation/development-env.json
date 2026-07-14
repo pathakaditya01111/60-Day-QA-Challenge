@@ -1,0 +1,28 @@
+{
+	"id": "560076b2-e4b3-4fd9-a206-dd15617d2790",
+	"name": "Development",
+	"values": [
+		{
+			"key": "baseUrl",
+			"value": "https://restful-booker.dev",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "authToken",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "bookingId",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		}
+	],
+	"color": null,
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2026-07-13T15:21:39.099Z",
+	"_postman_exported_using": "Postman/12.18.5"
+}
